@@ -14,9 +14,9 @@ public class AlgorithmTest {
         //  selectionSort(data);
         //  bubbleSort(data);
         //  quickSort(data, 0, data.length - 1);
-        mAlgorithm=new AlgorithmReview20180501();
+        //mAlgorithm=new AlgorithmReview20180501();
        // mAlgorithm=new AlgorithmReview();
-
+        mAlgorithm=new AlgorithmReview20180507();
         //int[] tem = new int[data.length];
         mAlgorithm.sort(data);
         //   heapSort(data);
